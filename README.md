@@ -6,3 +6,5 @@ This is the repository for the "Introduction to Programming" course (Master in E
 
 Created by [**Clément Mazet-Sonilhac**](https://cms27.github.io), Sciences Po Paris & Banque de France
 
+Thank you!
+
